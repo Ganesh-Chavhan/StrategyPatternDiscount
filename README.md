@@ -126,11 +126,10 @@ Final Amount: Rs. 900
 ## Technologies Used
 
 - C#
-- .NET
 - Visual Studio
 
 ---
 
 ## Author
 
-Ganesh Chavan
+Ganesh Chavhan
